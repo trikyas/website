@@ -1,112 +1,63 @@
 ---
 layout: post
-title:  "Markdown Syntax"
+title:  "My Software"
 date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+excerpt: "Everything I use, Software and more. This post will serve as a living document and a place to point curious developers to when I get asked "
 tag:
-- markdown 
+- markdown
 - syntax
 - sample
 - test
 - jekyll
-comments: true
+comments: false
 ---
 
-## HTML Elements
+# Everything I use
 
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
+I get asked about the specifics of some of the software or hardware I use.
 
-# Heading 1
+I change up things fairly often, so this post will serve as a living document and a great place to point curious developers to when I get asked.
 
-## Heading 2
+# Editor + Terminal
 
-### Heading 3
+ * <a href="#" class="btn">Atom.io</a> is my current editor which I switched to in September 2016 after years of Dreamweaver usage.
+ * I use iTerm2 for a Terminal.
 
-#### Heading 4
+# Desktop Apps
 
-##### Heading 5
+  * The cool Emoji picker I use in my videos is called <a href="http://matthewpalmer.net/rocket/" class="btn">Rocket</a>
+  * I use <a href="https://www.telestream.net/screenflow/" class="btn">ScreenFlow</a> to record and edit my screencasts
+  * <a href="https://www.mamp.info/" class="btn">MAMP</a> is my local server
+  * I use <a href="https://desktop.github.com/" class="btn">Github Desktop</a> for my github
+  * I use <a href="https://www.cakebrew.com/" class="btn">Cakebrew</a> to maintain my Homebrew
+  * I keep all my code snippets in <a href="https://www.renfei.org/snippets-lab/" class="btn">SnippetsLab</a>
 
-###### Heading 6
+# Browsers
 
-### Body text
+  * <a href="https://www.apple.com/au/safari/" class="btn">Safari</a>
+  * <a href="https://www.mozilla.org/en-US/firefox/new/" class="btn">Firefox</a>
+  * <a href="https://www.mozilla.org/en-US/firefox/developer/" class="btn">Firefox Developer Edition</a>
+  * <a href="https://www.mozilla.org/en-US/firefox/channel/desktop/" class="btn">Firefox Nightly</a>
+  * <a href="https://www.google.com/chrome/browser/desktop/index.html" class="btn">Google Chrome</a>
+  * <a href="https://www.google.com.au/chrome/browser/canary.html" class="btn">Google Chrome Canary</a>
+  * <a href="torchbrowser.com/
+" class="btn">Torch</a>
+  * <a href="https://vivaldi.com/?lang=en" class="btn">Vivaldi</a>
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+# Adobe
 
-![Smithsonian Image](https://mmistakes.github.io/minimal-mistakes/images/3953273590_704e3899d5_m.jpg)
-{: .image-right}
+  * Photoshop CC 2018
+  * Lightroom CC 2018
+  * Animate CC 2018
+  * Illustrator CC 2018
+  * Character Animator CC 2018
+  * Fuse CC (Beta)
+  * Acrobat DC
+  * XD CC 2018
+  * Dimensions CC 2018
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+# Useful links
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
-
-### Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-{: rules="groups"}
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## KBD
-
-You can also use `<kbd>` tag for keyboard buttons.
-
-{% highlight html %}
-<kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd>
-{% endhighlight %}
-
-Press <kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> to move your car. **Midtown Maddness!!**
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+  * <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" class="btn">CSS Grid Complete Guide | by css-tricks</a>
+  * <a href="https://tympanus.net/codrops/css_reference/grid/" class="btn">CSS Grid Complete Guide | by Codrops</a>
+  * <a href="http://learncssgrid.com" class="btn">learning CSS grid | by Jonathan Suh</a>
