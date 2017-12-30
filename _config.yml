@@ -40,7 +40,7 @@ disqus_shortname:   trikyas
 #email:
 #twitter:            username
 facebook:            Trikyas/
-github-url:          username
+github-url:          trikyas
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           trikyas/
 #xing:              username
@@ -57,11 +57,10 @@ linkedin:           trikyas/
 #soundcloud:        username
 #weibo:             username
 #flickr:            username
-codepen:            username
+codepen:            trikyas/
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-#wakatime:           username
 
 # Gems
 gems:
