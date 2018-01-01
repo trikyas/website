@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-date: 2013-08-16
+title: Basic sections of a .html document
+date: 2018-01-01
 excerpt: "HTML5 and CSS3 Basics"
 tags: [post, code, html, css, snippet,]
 comments: false
