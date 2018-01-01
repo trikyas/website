@@ -9,11 +9,11 @@ tag:
 - moon
 - blog
 - website
-comments: true
+comments: false
 ---
 
 
 
-<center><b>Trikyas</b> is a minimal, single column site.</center>
+<center><b>Trikyas</b></center>
 
-A simple Blog / Portfolio website that is fully responsive, clean and modern.
+It's my little piece of the internet. A Blog / Portfolio about what I do, can do and wish I could do. This 

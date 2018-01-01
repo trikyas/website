@@ -9,7 +9,7 @@ tag:
 - Desktop
 - Browsers
 - Links
-comments: false
+comments: true
 ---
 
 # Everything I use
