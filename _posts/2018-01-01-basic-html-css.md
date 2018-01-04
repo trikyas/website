@@ -2,7 +2,7 @@
 layout: post
 title: Basic sections of a .html document
 date: 2018-01-01
-excerpt: "HTML5 and CSS3 Basics"
+excerpt: "The HTML5 Basics"
 tags: [post, code, html, css, snippet,]
 feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
@@ -10,7 +10,10 @@ comments: false
 
 
 
-Portland in shoreditch Vice, labore typewriter pariatur hoodie fap sartorial Austin. Pinterest literally occupy Schlitz forage. Odio ad blue bottle vinyl, 90's narwhal commodo bitters pour-over nostrud. Ugh est hashtag in, fingerstache adipisicing laboris esse Pinterest shabby chic Portland. Shoreditch bicycle rights anim, flexitarian laboris put a bird on it vinyl cupidatat narwhal. Hashtag artisan skateboard, flannel Bushwick nesciunt salvia aute fixie do plaid post-ironic dolor McSweeney's. Cliche pour-over chambray nulla four loko skateboard sapiente hashtag.
+HTML5 is the latest version of Hypertext Markup Language, the code that describes web pages. It's actually three kinds of code:
+* HTML, which provides the structure;
+* Cascading Style Sheets (CSS), which take care of the presentation;
+* JavaScript, which helps makes the Website more interactive.
 
 
 # Basic sections of a .html document
@@ -36,7 +39,7 @@ A strip across the bottom of the page that generally contains fine print, copyri
 
 
 # HTML for structuring content
-The simple example shown above isn't pretty, but it is perfectly ok for illustrating a typical website layout example. Some websites have more columns, some are way more complex, but you get the idea. With the right CSS, you could use pretty much any elements to wrap around the different sections and get it looking how you wanted, but as discussed before, we need to respect semantics, and use the right element for the right job.
+The simple example shown above isn't pretty, but it's perfectly ok for illustrating a typical website layout example. Some websites have more columns, some are way more complex, but you get the idea. With the right CSS, you could use pretty much any element to wrap around the different sections and get it looking how you wanted, but as discussed before, we need to respect semantics, and use the right element for the right job.
 
 This is because visuals don't tell the whole story. We use color and font size to draw sighted users' attention to the most useful parts of the content, like the navigation menu and related links, but what about visually impaired people for example, who might not find concepts like "pink" and "large font" very useful?
 
@@ -57,7 +60,9 @@ Look at the example above, and then look over the listing below to see what part
 {% highlight html %}
 {% raw %}
 <!DOCTYPE html>
-<html>
+<!-- <!DOCTYPE html> This is the page Declaration.-->
+<html lang="en">
+<!-- <html lang="en"> This is the beginning of the page and we are setting the page language to English (en).-->
   <head>
     <meta charset="utf-8">
 
@@ -142,4 +147,4 @@ Look at the example above, and then look over the listing below to see what part
 {% endraw %}
 {% endhighlight %}
 
-Take some time to look over the code and understand it — the comments inside the code should also help you to understand it. No-one is asking you to do much else in this post, because the key to understanding the document layout is writing a clean HTML structure, and then laying it out with CSS..
+Take some time to look over the code and try to understand it — the comments inside the code might also help you to understand it. No-one is asking you to do much else in this post, because the key to understanding the HTML document layout is writing a clean HTML structure, and then laying it out with CSS..
