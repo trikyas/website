@@ -9,6 +9,7 @@ tag:
 - example
 - test
 - jekyll
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
 

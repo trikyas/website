@@ -9,6 +9,7 @@ tag:
 - moon
 - blog
 - website
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
 
@@ -16,4 +17,4 @@ comments: false
 
 <center><b>Trikyas</b></center>
 
-It's my little piece of the internet. A Blog / Portfolio about what I do, can do and wish I could do. This 
+It's my little piece of the internet. A Blog / Portfolio about what I do, can do and wish I could do. This
