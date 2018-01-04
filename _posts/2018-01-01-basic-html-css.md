@@ -33,7 +33,7 @@ A strip across the bottom of the page that generally contains fine print, copyri
 <figure>
 	<a href="https://mdn.mozillademos.org/files/12417/sample-website.png"><img src="https://mdn.mozillademos.org/files/12417/sample-website.png"></a>
 	<figcaption>
-    <a href="https://mdn.mozillademos.org/files/12417/sample-website.png" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.
+    <a href="https://mdn.mozillademos.org/files/12417/sample-website.png" title="A sample website">A sample website</a>.
   </figcaption>
 </figure>
 
