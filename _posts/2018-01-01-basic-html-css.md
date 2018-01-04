@@ -4,6 +4,7 @@ title: Basic sections of a .html document
 date: 2018-01-01
 excerpt: "HTML5 and CSS3 Basics"
 tags: [post, code, html, css, snippet,]
+feature: http://i.imgur.com/Ds6S7lJ.png
 comments: false
 ---
 
