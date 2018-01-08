@@ -30,4 +30,4 @@ comments: false
 * Creating pointless Apps and Sites (practice)
 * Partying with my Unicorn!
 
-<center>My Unicorn featured here in this <a href="https://trikyas.github.io/Nicer-Skeleton/"><b>Boilerplate</b></a></center>
+<center>My Unicorn is featured here in this <a href="https://trikyas.github.io/Nicer-Skeleton/"><b>Boilerplate</b></a></center> which you can download and use as you like.
